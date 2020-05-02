@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="742.256" height="553.62" viewBox="0 0 742.256 553.62">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.014" y1="0.49" x2="1" y2="0.502" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcea10"/>
+      <stop offset="1" stop-color="#e94e1b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-49.974" y1="-17.089" x2="-47.951" y2="-17.065" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-96.729" y1="-33.765" x2="-94.706" y2="-33.741" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-55.098" y1="-0.093" x2="-52.482" y2="-0.077" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-104.982" y1="0.077" x2="-102.365" y2="0.094" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="113.584" y1="-71.619" x2="116.201" y2="-71.602" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="232.248" y1="-146.721" x2="234.864" y2="-146.705" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe8bf"/>
+      <stop offset="1" stop-color="#f39279"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.125" y1="0.005" x2="0.961" y2="1.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#605f5f"/>
+      <stop offset="1" stop-color="#3c3c3b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-12" x1="0.26" y1="0.09" x2="0.725" y2="0.923" xlink:href="#linear-gradient-8"/>
+    <linearGradient id="linear-gradient-13" x1="0.033" y1="0.208" x2="0.989" y2="0.999" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009fe3"/>
+      <stop offset="1" stop-color="#312783"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="-0.014" y1="0.451" x2="0.998" y2="0.548" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ca9e67"/>
+      <stop offset="1" stop-color="#683c11"/>
+    </linearGradient>
+  </defs>
+  <g id="Illustration" transform="translate(-234.589 -2065.881)">
+    <g id="Groupe_8" data-name="Groupe 8">
+      <path id="Tracé_26" data-name="Tracé 26" d="M278.5,2357.8s-24.259-67.653,96.417-92.536,160.432-58.562,211.858-107.9c93.754-89.946,364.73-137.454,360.647-28.58s-47.509,131.956-73.491,155.465c-46.682,42.24,10.284,155.66,65.325,180.312,76.3,34.171,35.384,190.9-112.957,147.355S688.841,2479.907,641.208,2560.2s-137.454,57.159-142.9-51.715-43.55-142.9-87.1-125.206S298.206,2405.811,278.5,2357.8Z" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="25.517" cy="19.734" rx="25.517" ry="19.734" transform="matrix(0.763, -0.647, 0.647, 0.763, 493.716, 2164.098)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="12.759" cy="9.867" rx="12.759" ry="9.867" transform="matrix(0.763, -0.647, 0.647, 0.763, 519.232, 2114.091)" fill="url(#linear-gradient-3)"/>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="13.221" cy="18.978" rx="13.221" ry="18.978" transform="translate(877.133 2340.455) rotate(-45.105)" fill="url(#linear-gradient-4)"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="6.611" cy="9.489" rx="6.611" ry="9.489" transform="translate(882.847 2307.022) rotate(-45.105)" fill="url(#linear-gradient-5)"/>
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="13.221" cy="18.978" rx="13.221" ry="18.978" transform="translate(663.882 2560.482) rotate(-29.797)" fill="url(#linear-gradient-6)"/>
+      <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="6.611" cy="9.489" rx="6.611" ry="9.489" transform="translate(670.449 2601.119) rotate(-29.797)" fill="url(#linear-gradient-7)"/>
+    </g>
+    <g id="Groupe_9" data-name="Groupe 9">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="21.637" height="34.139" transform="translate(307.981 2305.669)" fill="url(#linear-gradient-8)"/>
+      <path id="Tracé_27" data-name="Tracé 27" d="M368.22,2457.613H251.243c-3.681,0-11.6-15.062-10.058-32.658s12.624-52.021,17.74-66.143,15.073-26.7,30.17-26.7h58.369a27.53,27.53,0,0,1,27.449,27.449v91.356A6.713,6.713,0,0,1,368.22,2457.613Z" fill="url(#linear-gradient-8)"/>
+    </g>
+    <path id="Tracé_28" data-name="Tracé 28" d="M379.454,2460.959H257.217a6.712,6.712,0,0,1-6.692-6.693l-9.538-73.788a3.876,3.876,0,0,1,3.864-3.864h146.69a3.876,3.876,0,0,1,3.864,3.864l-9.258,73.788A6.713,6.713,0,0,1,379.454,2460.959Z" fill="url(#linear-gradient-10)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="149.161" height="7.209" rx="3.605" transform="translate(244.53 2460.959)" fill="url(#linear-gradient-11)"/>
+    <g id="Groupe_10" data-name="Groupe 10">
+      <path id="Tracé_29" data-name="Tracé 29" d="M353.783,2291.283c-1.429,3.739-4.325,6.111-6.536,5.38-4.442,14.813-17.536,25.194-32.382,24.385-13.752-.759-24.959-10.9-28.76-24.474-2.2.843-5.2-1.462-6.725-5.185-1.546-3.756-1.011-7.54,1.188-8.444,1.273-.519,2.819.027,4.2,1.306v-.028c1.06-19.367,16.258-34.286,33.939-33.315,16.459.9,29.279,15.248,30.111,32.857a3.684,3.684,0,0,1,3.561-.887C354.6,2283.726,355.229,2287.488,353.783,2291.283Z" fill="url(#linear-gradient-12)"/>
+    </g>
+    <path id="Tracé_30" data-name="Tracé 30" d="M328.532,2263.543s-21.139,18.089-43.766,20.708a5.017,5.017,0,0,0-3.157-1.5c-1.668.044-.429-17.388,7.906-21.816,0,0,19.188-26.567,45.495-8.161,0,0,20.229,10.705,17.367,30.1a3.977,3.977,0,0,0-3.561.887S330.021,2266.773,328.532,2263.543Z" fill="#933c11"/>
+    <path id="Tracé_31" data-name="Tracé 31" d="M302.547,2332.115s16.03,20.007,31.444,0c0,0,49.613-8.459,40.922,44.5H252.935S260.627,2324.581,302.547,2332.115Z" fill="url(#linear-gradient-13)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="168.616" height="15.956" rx="7.978" transform="translate(234.589 2466.141)" fill="url(#linear-gradient-14)"/>
+    <text id="Trop_gentil_" data-name="Trop  gentil ?" transform="translate(530.183 2295.169)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Trop  gentil ?</tspan></text>
+    <text id="Trop_passionné_" data-name="Trop  passionné ?" transform="translate(652.396 2376.614)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Trop  passionné ?</tspan></text>
+    <text id="Faire_trop_vite_" data-name="Faire trop vite ?" transform="translate(535.344 2466.141)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Faire trop vite ?</tspan></text>
+    <text id="Trop_créatif_" data-name="Trop créatif ?" transform="translate(751.202 2521.692)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Trop créatif ?</tspan></text>
+    <text id="Injustice_" data-name="Injustice ?" transform="translate(652.396 2162.644)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Injustice ?</tspan></text>
+    <text id="Hyperactivité_" data-name="Hyperactivité ?" transform="translate(695.25 2231.105)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Hyperactivité ?</tspan></text>
+  </g>
+</svg>

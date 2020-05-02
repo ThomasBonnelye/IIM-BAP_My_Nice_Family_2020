@@ -1,0 +1,140 @@
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding-top: 4%;
+    
+
+}
+
+#dirigeants, #surdoues{
+    background-color: #F5F5F5;
+}
+
+#footer{
+    background-color: #F5F5F5;
+    height: 17em;
+}
+
+.header{
+    background-color: #FFFFFF;
+}
+
+a{
+    color: black;
+}
+
+#menu{
+    background-color: #FFFFFF;
+}
+
+form{
+    padding-left: 50px;;
+}
+
+.control-group{
+    padding-left: 50px;
+}
+
+.img{
+    max-width: 120%;
+}
+
+.image-logo{
+    max-width: 120%;
+}
+
+.cta_bouton1{
+    max-width: 30%;
+    position: absolute;
+    bottom: -37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cta_bouton2{
+    max-width: 30%;
+    position: absolute;
+    bottom: -44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#dirigeants{
+    padding-bottom: 10%;
+    padding-top: 8%;
+}
+
+#surdoues{
+    padding-top: 8%;
+    padding-bottom: 10%;
+}
+
+.masthead{
+    padding-bottom: 3%;
+}
+
+
+.page-section-heading{
+    padding-bottom: 6%;
+}
+
+.form_bouton{
+    max-width: 25%;
+    position: absolute;
+    padding-top: 0.1%;
+    left: 20.4%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+
+body{
+    overflow-X:hidden
+}
+
+.cRetour {
+    border-radius:3px;
+    padding:10px;
+    font-size:15px;
+    text-align:center;
+    color:#fff;
+    z-index:99999;
+    transition:all ease-in 0.2s;
+    position: fixed;
+    cursor: pointer;
+    bottom: 1em;
+    right: 20px;
+    
+  }
+
+footer{
+    background-color: #f5f5f5;
+}
+
+.footer_icon{
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+/* GIF ANIMATION */
+
+#gifs-rows img {
+    cursor: pointer;
+  }
+  #gifs-rows .gif-file {
+    display:none;
+  }
+
+  #gifs-rows2 img {
+    cursor: pointer;
+  }
+  #gifs-rows2 .gif-file2 {
+    display:none;
+  }

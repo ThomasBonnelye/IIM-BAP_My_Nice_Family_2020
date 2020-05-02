@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263.901" height="93" viewBox="0 0 263.901 93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.003" y1="0.495" x2="0.994" y2="0.505" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcea10"/>
+      <stop offset="1" stop-color="#e94e1b"/>
+    </linearGradient>
+    <filter id="Tracé_17" x="0" y="0" width="263.901" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.494"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Composant_3_1" data-name="Composant 3 – 1" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Tracé_17)">
+      <path id="Tracé_17-2" data-name="Tracé 17" d="M1285.99,2582H1479.8c14.383,0,26.043,9.626,26.043,21.5v32c0,11.874-11.66,21.5-26.043,21.5H1285.99c-14.383,0-26.043-9.626-26.043-21.5v-32C1259.947,2591.627,1271.607,2582,1285.99,2582Z" transform="translate(-1250.95 -2576)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="En_savoir_plus" data-name="En savoir plus" transform="translate(34.603 46.424)" fill="#fff" font-size="24" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">En savoir plus</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109" height="109" viewBox="0 0 109 109">
+  <defs>
+    <filter id="Ellipse_18" x="0" y="-3" width="109" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.486"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_17" x="0" y="0" width="109" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-opacity="0.557"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_18)">
+        <circle id="Ellipse_18-2" data-name="Ellipse 18" cx="41" cy="41" r="41" transform="translate(325 89)" fill="#fff"/>
+      </g>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.995" y1="0.491" x2="0.034" y2="0.509" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009fe3"/>
+      <stop offset="1" stop-color="#662483"/>
+    </linearGradient>
+    <filter id="Tracé_34" x="-7.152" y="-8.638" width="118.167" height="119.673" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.49"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <path id="Union_1" data-name="Union 1" d="M16.743,43.3a3,3,0,0,1-3-3V18H5.212a2,2,0,0,1-1.338-3.487L18.662,1.2a2,2,0,0,1,2.676,0L36.126,14.513A2,2,0,0,1,34.788,18H26.412V40.3a3,3,0,0,1-3,3Z" transform="translate(1791 439)" fill="#9e9e9e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-0.003" y1="0.495" x2="0.994" y2="0.505" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcea10"/>
+      <stop offset="1" stop-color="#e94e1b"/>
+    </linearGradient>
+    <filter id="Tracé_33" x="25.599" y="4.554" width="57.901" height="82.895" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.494"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_12" data-name="Groupe 12" transform="translate(-1775.5 -923.5)">
+    <g transform="matrix(1, 0, 0, 1, 1775.5, 923.5)" filter="url(#Ellipse_17)">
+      <circle id="Ellipse_17-2" data-name="Ellipse 17" cx="41" cy="41" r="41" transform="translate(13.5 7.5)" fill="#fff"/>
+    </g>
+    <g id="Groupe_11" data-name="Groupe 11" transform="translate(9 295)">
+      <g id="Groupe_de_masques_2" data-name="Groupe de masques 2" transform="translate(1455 547)" opacity="0.819" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, 311.5, 81.5)" filter="url(#Tracé_34)">
+          <path id="Tracé_34-2" data-name="Tracé 34" d="M446.449,3455.2h80.136c5.947,0,10.768,12.856,10.768,28.715v42.738c0,15.858-4.821,28.714-10.768,28.714H446.449c-5.947,0-10.768-12.856-10.768-28.714v-42.738C435.681,3468.054,440.5,3455.2,446.449,3455.2Z" transform="translate(-3453.35 534.72) rotate(-90)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Tracé_35" data-name="Tracé 35" d="M38,0C58.987,0,76,16.789,76,37.5a37.2,37.2,0,0,1-6.819,21.44A37.975,37.975,0,0,1,38,75C17.013,75,0,58.211,0,37.5S17.013,0,38,0Z" transform="translate(1783 636)" fill="#fff"/>
+      <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" transform="translate(10 211)" opacity="0.701" clip-path="url(#clip-path-2)">
+        <g transform="matrix(1, 0, 0, 1, 1756.5, 417.5)" filter="url(#Tracé_33)">
+          <path id="Tracé_33-2" data-name="Tracé 33" d="M1266.82,2582h51.149c3.8,0,6.873,5.121,6.873,11.438v17.024c0,6.317-3.077,11.438-6.873,11.438H1266.82c-3.8,0-6.873-5.121-6.873-11.438v-17.024C1259.947,2587.122,1263.024,2582,1266.82,2582Z" transform="translate(2656.5 -1249.39) rotate(90)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
